@@ -22,10 +22,8 @@
 * *Project Structure - Feature oriented*
 * *Hapijs - REST Api*
 * *Swagger - documentation*
-* *Jwt - authentication*
 * *Mongoose - MongoDb*
 * *nconf - configurations*
-* *Logging - MongoDB collection based logging*
 * *Unit Tests - chai + sinon + mocha*
 
 Running on port 5000 ex: localhost:5000/docs
