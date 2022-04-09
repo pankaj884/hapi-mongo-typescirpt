@@ -29,7 +29,7 @@
     "inert": "5.1.0",
     "joi": "13.2.0",
     "jsonwebtoken": "8.2.1",
-    "moment": "2.22.1",
+    "moment": "2.29.2",
     "moment-timezone": "0.5.16",
     "mongoose": "5.0.16",
     "nconf": "0.10.0",
